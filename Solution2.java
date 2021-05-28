@@ -1,4 +1,4 @@
-import java.util.Arrays;
+
 public class Sort2DArray {
     public static void main(String args[]) {
        System.out.print("Enter 2D array size : ");
